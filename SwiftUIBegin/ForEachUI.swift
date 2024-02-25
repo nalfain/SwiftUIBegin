@@ -30,7 +30,7 @@ struct ForEachUI: View {
             HStack {
                 ForEach(data.indices) { index in
 //                    Text("NEW ITEM \(index)")
-                    Text("\(data[index])-\(index)")
+                    Text("\(data[index]) \(index)")
                 }
             }
         }
