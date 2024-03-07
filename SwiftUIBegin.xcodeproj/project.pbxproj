@@ -27,6 +27,7 @@
 		06E862FB2B74AF0D001960E0 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E862FA2B74AF0D001960E0 /* Shapes.swift */; };
 		06E862FD2B750243001960E0 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E862FC2B750243001960E0 /* Colors.swift */; };
 		ED8B55AF2B95F7CA0069C604 /* SafeAriaUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55AE2B95F7CA0069C604 /* SafeAriaUI.swift */; };
+		ED8B55B12B98BB140069C604 /* ButtonUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B02B98BB140069C604 /* ButtonUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		06E862FA2B74AF0D001960E0 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 		06E862FC2B750243001960E0 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		ED8B55AE2B95F7CA0069C604 /* SafeAriaUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAriaUI.swift; sourceTree = "<group>"; };
+		ED8B55B02B98BB140069C604 /* ButtonUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				062F5CA62B8B7B7D00B00720 /* ScrollViewUI.swift */,
 				062F5CA82B8B8A7300B00720 /* GridUI.swift */,
 				ED8B55AE2B95F7CA0069C604 /* SafeAriaUI.swift */,
+				ED8B55B02B98BB140069C604 /* ButtonUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -193,6 +196,7 @@
 				ED8B55AF2B95F7CA0069C604 /* SafeAriaUI.swift in Sources */,
 				062F5CA72B8B7B7D00B00720 /* ScrollViewUI.swift in Sources */,
 				062F5CA12B83BF7700B00720 /* SpacerUI.swift in Sources */,
+				ED8B55B12B98BB140069C604 /* ButtonUI.swift in Sources */,
 				062F5C972B76518300B00720 /* image.swift in Sources */,
 				06E862ED2B73B547001960E0 /* ContentView.swift in Sources */,
 				062F5C9B2B78E65800B00720 /* BackgroundAndOverlay.swift in Sources */,
