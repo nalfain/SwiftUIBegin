@@ -32,6 +32,7 @@
 		ED8B55B52B9A028C0069C604 /* ExtractedFuncrionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B42B9A028C0069C604 /* ExtractedFuncrionUI.swift */; };
 		ED8B55B72B9B59920069C604 /* ExtractSubviewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */; };
 		ED8B55B92B9BA79E0069C604 /* BindingUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B82B9BA79E0069C604 /* BindingUI.swift */; };
+		ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		ED8B55B42B9A028C0069C604 /* ExtractedFuncrionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFuncrionUI.swift; sourceTree = "<group>"; };
 		ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewUI.swift; sourceTree = "<group>"; };
 		ED8B55B82B9BA79E0069C604 /* BindingUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingUI.swift; sourceTree = "<group>"; };
+		ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Conditional(if)UI.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				ED8B55B42B9A028C0069C604 /* ExtractedFuncrionUI.swift */,
 				ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */,
 				ED8B55B82B9BA79E0069C604 /* BindingUI.swift */,
+				ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -220,6 +223,7 @@
 				06E862F92B73B784001960E0 /* TextUI.swift in Sources */,
 				062F5C9F2B83AB7300B00720 /* Padding.swift in Sources */,
 				06E862EB2B73B547001960E0 /* SwiftUIBeginApp.swift in Sources */,
+				ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */,
 				ED8B55B72B9B59920069C604 /* ExtractSubviewUI.swift in Sources */,
 				062F5C932B7522B600B00720 /* Gradients.swift in Sources */,
 				062F5CA92B8B8A7300B00720 /* GridUI.swift in Sources */,
