@@ -31,6 +31,7 @@
 		ED8B55B32B99F7420069C604 /* StateUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B22B99F7420069C604 /* StateUI.swift */; };
 		ED8B55B52B9A028C0069C604 /* ExtractedFuncrionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B42B9A028C0069C604 /* ExtractedFuncrionUI.swift */; };
 		ED8B55B72B9B59920069C604 /* ExtractSubviewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */; };
+		ED8B55B92B9BA79E0069C604 /* BindingUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B82B9BA79E0069C604 /* BindingUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		ED8B55B22B99F7420069C604 /* StateUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateUI.swift; sourceTree = "<group>"; };
 		ED8B55B42B9A028C0069C604 /* ExtractedFuncrionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFuncrionUI.swift; sourceTree = "<group>"; };
 		ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewUI.swift; sourceTree = "<group>"; };
+		ED8B55B82B9BA79E0069C604 /* BindingUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				ED8B55B22B99F7420069C604 /* StateUI.swift */,
 				ED8B55B42B9A028C0069C604 /* ExtractedFuncrionUI.swift */,
 				ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */,
+				ED8B55B82B9BA79E0069C604 /* BindingUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -209,6 +212,7 @@
 				ED8B55B12B98BB140069C604 /* ButtonUI.swift in Sources */,
 				062F5C972B76518300B00720 /* image.swift in Sources */,
 				06E862ED2B73B547001960E0 /* ContentView.swift in Sources */,
+				ED8B55B92B9BA79E0069C604 /* BindingUI.swift in Sources */,
 				062F5C9B2B78E65800B00720 /* BackgroundAndOverlay.swift in Sources */,
 				06E862FD2B750243001960E0 /* Colors.swift in Sources */,
 				ED8B55B52B9A028C0069C604 /* ExtractedFuncrionUI.swift in Sources */,
