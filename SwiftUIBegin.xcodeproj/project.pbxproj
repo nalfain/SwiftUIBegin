@@ -33,6 +33,7 @@
 		ED8B55B72B9B59920069C604 /* ExtractSubviewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */; };
 		ED8B55B92B9BA79E0069C604 /* BindingUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B82B9BA79E0069C604 /* BindingUI.swift */; };
 		ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */; };
+		ED8B55BD2B9CB0640069C604 /* TernaryOperatorUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewUI.swift; sourceTree = "<group>"; };
 		ED8B55B82B9BA79E0069C604 /* BindingUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingUI.swift; sourceTree = "<group>"; };
 		ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Conditional(if)UI.swift"; sourceTree = "<group>"; };
+		ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperatorUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */,
 				ED8B55B82B9BA79E0069C604 /* BindingUI.swift */,
 				ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */,
+				ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -209,6 +212,7 @@
 				062F5CA32B865F7900B00720 /* InitializerUI.swift in Sources */,
 				062F5C9D2B82116E00B00720 /* Stacks.swift in Sources */,
 				ED8B55AF2B95F7CA0069C604 /* SafeAriaUI.swift in Sources */,
+				ED8B55BD2B9CB0640069C604 /* TernaryOperatorUI.swift in Sources */,
 				062F5CA72B8B7B7D00B00720 /* ScrollViewUI.swift in Sources */,
 				ED8B55B32B99F7420069C604 /* StateUI.swift in Sources */,
 				062F5CA12B83BF7700B00720 /* SpacerUI.swift in Sources */,
