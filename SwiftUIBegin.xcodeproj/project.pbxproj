@@ -34,6 +34,7 @@
 		ED8B55B92B9BA79E0069C604 /* BindingUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B82B9BA79E0069C604 /* BindingUI.swift */; };
 		ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */; };
 		ED8B55BD2B9CB0640069C604 /* TernaryOperatorUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */; };
+		ED8B55BF2B9CCDE50069C604 /* AnimationUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +66,7 @@
 		ED8B55B82B9BA79E0069C604 /* BindingUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingUI.swift; sourceTree = "<group>"; };
 		ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Conditional(if)UI.swift"; sourceTree = "<group>"; };
 		ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperatorUI.swift; sourceTree = "<group>"; };
+		ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				ED8B55B82B9BA79E0069C604 /* BindingUI.swift */,
 				ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */,
 				ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */,
+				ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -228,6 +231,7 @@
 				062F5C9F2B83AB7300B00720 /* Padding.swift in Sources */,
 				06E862EB2B73B547001960E0 /* SwiftUIBeginApp.swift in Sources */,
 				ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */,
+				ED8B55BF2B9CCDE50069C604 /* AnimationUI.swift in Sources */,
 				ED8B55B72B9B59920069C604 /* ExtractSubviewUI.swift in Sources */,
 				062F5C932B7522B600B00720 /* Gradients.swift in Sources */,
 				062F5CA92B8B8A7300B00720 /* GridUI.swift in Sources */,
