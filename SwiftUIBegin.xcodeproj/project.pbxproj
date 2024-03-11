@@ -35,6 +35,7 @@
 		ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */; };
 		ED8B55BD2B9CB0640069C604 /* TernaryOperatorUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */; };
 		ED8B55BF2B9CCDE50069C604 /* AnimationUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */; };
+		ED8B55C12B9F21280069C604 /* AnimationTimingUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Conditional(if)UI.swift"; sourceTree = "<group>"; };
 		ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperatorUI.swift; sourceTree = "<group>"; };
 		ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUI.swift; sourceTree = "<group>"; };
+		ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 				ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */,
 				ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */,
 				ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */,
+				ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -211,6 +214,7 @@
 			files = (
 				062F5C992B76709200B00720 /* Frame.swift in Sources */,
 				062F5CA52B8B6E2800B00720 /* ForEachUI.swift in Sources */,
+				ED8B55C12B9F21280069C604 /* AnimationTimingUI.swift in Sources */,
 				062F5C952B76272A00B00720 /* Icons.swift in Sources */,
 				062F5CA32B865F7900B00720 /* InitializerUI.swift in Sources */,
 				062F5C9D2B82116E00B00720 /* Stacks.swift in Sources */,
