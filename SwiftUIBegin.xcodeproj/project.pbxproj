@@ -37,6 +37,7 @@
 		ED8B55BF2B9CCDE50069C604 /* AnimationUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */; };
 		ED8B55C12B9F21280069C604 /* AnimationTimingUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */; };
 		ED8B55C32B9F2F1C0069C604 /* TransitionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */; };
+		ED8B55C52B9F52790069C604 /* SheetsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C42B9F52790069C604 /* SheetsUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUI.swift; sourceTree = "<group>"; };
 		ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingUI.swift; sourceTree = "<group>"; };
 		ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionUI.swift; sourceTree = "<group>"; };
+		ED8B55C42B9F52790069C604 /* SheetsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +133,7 @@
 				ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */,
 				ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */,
 				ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */,
+				ED8B55C42B9F52790069C604 /* SheetsUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -219,6 +222,7 @@
 				062F5CA52B8B6E2800B00720 /* ForEachUI.swift in Sources */,
 				ED8B55C32B9F2F1C0069C604 /* TransitionUI.swift in Sources */,
 				ED8B55C12B9F21280069C604 /* AnimationTimingUI.swift in Sources */,
+				ED8B55C52B9F52790069C604 /* SheetsUI.swift in Sources */,
 				062F5C952B76272A00B00720 /* Icons.swift in Sources */,
 				062F5CA32B865F7900B00720 /* InitializerUI.swift in Sources */,
 				062F5C9D2B82116E00B00720 /* Stacks.swift in Sources */,
