@@ -38,6 +38,7 @@
 		ED8B55C12B9F21280069C604 /* AnimationTimingUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */; };
 		ED8B55C32B9F2F1C0069C604 /* TransitionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */; };
 		ED8B55C52B9F52790069C604 /* SheetsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C42B9F52790069C604 /* SheetsUI.swift */; };
+		ED8B55C72BA03CE70069C604 /* PopoverUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C62BA03CE60069C604 /* PopoverUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +74,7 @@
 		ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingUI.swift; sourceTree = "<group>"; };
 		ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionUI.swift; sourceTree = "<group>"; };
 		ED8B55C42B9F52790069C604 /* SheetsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsUI.swift; sourceTree = "<group>"; };
+		ED8B55C62BA03CE60069C604 /* PopoverUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 				ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */,
 				ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */,
 				ED8B55C42B9F52790069C604 /* SheetsUI.swift */,
+				ED8B55C62BA03CE60069C604 /* PopoverUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -241,6 +244,7 @@
 				06E862FB2B74AF0D001960E0 /* Shapes.swift in Sources */,
 				06E862F92B73B784001960E0 /* TextUI.swift in Sources */,
 				062F5C9F2B83AB7300B00720 /* Padding.swift in Sources */,
+				ED8B55C72BA03CE70069C604 /* PopoverUI.swift in Sources */,
 				06E862EB2B73B547001960E0 /* SwiftUIBeginApp.swift in Sources */,
 				ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */,
 				ED8B55BF2B9CCDE50069C604 /* AnimationUI.swift in Sources */,
