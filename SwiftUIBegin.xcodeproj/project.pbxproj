@@ -39,6 +39,7 @@
 		ED8B55C32B9F2F1C0069C604 /* TransitionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */; };
 		ED8B55C52B9F52790069C604 /* SheetsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C42B9F52790069C604 /* SheetsUI.swift */; };
 		ED8B55C72BA03CE70069C604 /* PopoverUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C62BA03CE60069C604 /* PopoverUI.swift */; };
+		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -75,6 +76,7 @@
 		ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionUI.swift; sourceTree = "<group>"; };
 		ED8B55C42B9F52790069C604 /* SheetsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsUI.swift; sourceTree = "<group>"; };
 		ED8B55C62BA03CE60069C604 /* PopoverUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverUI.swift; sourceTree = "<group>"; };
+		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 				ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */,
 				ED8B55C42B9F52790069C604 /* SheetsUI.swift */,
 				ED8B55C62BA03CE60069C604 /* PopoverUI.swift */,
+				EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -239,6 +242,7 @@
 				06E862ED2B73B547001960E0 /* ContentView.swift in Sources */,
 				ED8B55B92B9BA79E0069C604 /* BindingUI.swift in Sources */,
 				062F5C9B2B78E65800B00720 /* BackgroundAndOverlay.swift in Sources */,
+				EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */,
 				06E862FD2B750243001960E0 /* Colors.swift in Sources */,
 				ED8B55B52B9A028C0069C604 /* ExtractedFuncrionUI.swift in Sources */,
 				06E862FB2B74AF0D001960E0 /* Shapes.swift in Sources */,
