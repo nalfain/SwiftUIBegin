@@ -19,7 +19,6 @@
 		062F5CA52B8B6E2800B00720 /* ForEachUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062F5CA42B8B6E2800B00720 /* ForEachUI.swift */; };
 		062F5CA72B8B7B7D00B00720 /* ScrollViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062F5CA62B8B7B7D00B00720 /* ScrollViewUI.swift */; };
 		062F5CA92B8B8A7300B00720 /* GridUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062F5CA82B8B8A7300B00720 /* GridUI.swift */; };
-		06E862EB2B73B547001960E0 /* SwiftUIBeginApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E862EA2B73B547001960E0 /* SwiftUIBeginApp.swift */; };
 		06E862ED2B73B547001960E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E862EC2B73B547001960E0 /* ContentView.swift */; };
 		06E862EF2B73B549001960E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06E862EE2B73B549001960E0 /* Assets.xcassets */; };
 		06E862F22B73B549001960E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06E862F12B73B549001960E0 /* Preview Assets.xcassets */; };
@@ -39,7 +38,9 @@
 		ED8B55C32B9F2F1C0069C604 /* TransitionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */; };
 		ED8B55C52B9F52790069C604 /* SheetsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C42B9F52790069C604 /* SheetsUI.swift */; };
 		ED8B55C72BA03CE70069C604 /* PopoverUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C62BA03CE60069C604 /* PopoverUI.swift */; };
+		EDBA26D72BA4583E002D75F9 /* SwiftUIBeginApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26D62BA4583E002D75F9 /* SwiftUIBeginApp.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
+		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,7 +57,6 @@
 		062F5CA62B8B7B7D00B00720 /* ScrollViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewUI.swift; sourceTree = "<group>"; };
 		062F5CA82B8B8A7300B00720 /* GridUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridUI.swift; sourceTree = "<group>"; };
 		06E862E72B73B547001960E0 /* SwiftUIBegin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBegin.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		06E862EA2B73B547001960E0 /* SwiftUIBeginApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginApp.swift; sourceTree = "<group>"; };
 		06E862EC2B73B547001960E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		06E862EE2B73B549001960E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		06E862F12B73B549001960E0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -76,7 +76,9 @@
 		ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionUI.swift; sourceTree = "<group>"; };
 		ED8B55C42B9F52790069C604 /* SheetsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsUI.swift; sourceTree = "<group>"; };
 		ED8B55C62BA03CE60069C604 /* PopoverUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverUI.swift; sourceTree = "<group>"; };
+		EDBA26D62BA4583E002D75F9 /* SwiftUIBeginApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftUIBeginApp.swift; path = ../../../../.Trash/SwiftUIBeginApp.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
+		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +111,7 @@
 		06E862E92B73B547001960E0 /* SwiftUIBegin */ = {
 			isa = PBXGroup;
 			children = (
-				06E862EA2B73B547001960E0 /* SwiftUIBeginApp.swift */,
+				EDBA26D62BA4583E002D75F9 /* SwiftUIBeginApp.swift */,
 				06E862EC2B73B547001960E0 /* ContentView.swift */,
 				06E862F82B73B784001960E0 /* TextUI.swift */,
 				06E862FA2B74AF0D001960E0 /* Shapes.swift */,
@@ -140,6 +142,7 @@
 				ED8B55C42B9F52790069C604 /* SheetsUI.swift */,
 				ED8B55C62BA03CE60069C604 /* PopoverUI.swift */,
 				EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */,
+				EDE2978E2BA450EC0015C8BE /* ListUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -225,6 +228,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				062F5C992B76709200B00720 /* Frame.swift in Sources */,
+				EDBA26D72BA4583E002D75F9 /* SwiftUIBeginApp.swift in Sources */,
+				EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */,
 				062F5CA52B8B6E2800B00720 /* ForEachUI.swift in Sources */,
 				ED8B55C32B9F2F1C0069C604 /* TransitionUI.swift in Sources */,
 				ED8B55C12B9F21280069C604 /* AnimationTimingUI.swift in Sources */,
@@ -249,7 +254,6 @@
 				06E862F92B73B784001960E0 /* TextUI.swift in Sources */,
 				062F5C9F2B83AB7300B00720 /* Padding.swift in Sources */,
 				ED8B55C72BA03CE70069C604 /* PopoverUI.swift in Sources */,
-				06E862EB2B73B547001960E0 /* SwiftUIBeginApp.swift in Sources */,
 				ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */,
 				ED8B55BF2B9CCDE50069C604 /* AnimationUI.swift in Sources */,
 				ED8B55B72B9B59920069C604 /* ExtractSubviewUI.swift in Sources */,

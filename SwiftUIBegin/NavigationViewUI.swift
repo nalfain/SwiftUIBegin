@@ -107,5 +107,6 @@ struct NavigationViewUI_Previews: PreviewProvider {
     static var previews: some View {
       NavigationViewUI()
         //My2Screen()
+        //My3Screen()
     }
 }
