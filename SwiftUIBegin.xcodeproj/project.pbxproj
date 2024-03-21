@@ -44,6 +44,7 @@
 		EDBA26DD2BAB006D002D75F9 /* ContentMenuUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26DC2BAB006D002D75F9 /* ContentMenuUI.swift */; };
 		EDBA26DF2BAB1218002D75F9 /* TextfieldUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26DE2BAB1217002D75F9 /* TextfieldUI.swift */; };
 		EDBA26E12BAC342F002D75F9 /* TextEditorUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26E02BAC342F002D75F9 /* TextEditorUI.swift */; };
+		EDBA26E32BAC5CA1002D75F9 /* ToggleUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26E22BAC5CA1002D75F9 /* ToggleUI.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 /* End PBXBuildFile section */
@@ -87,6 +88,7 @@
 		EDBA26DC2BAB006D002D75F9 /* ContentMenuUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentMenuUI.swift; sourceTree = "<group>"; };
 		EDBA26DE2BAB1217002D75F9 /* TextfieldUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldUI.swift; sourceTree = "<group>"; };
 		EDBA26E02BAC342F002D75F9 /* TextEditorUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorUI.swift; sourceTree = "<group>"; };
+		EDBA26E22BAC5CA1002D75F9 /* ToggleUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleUI.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -158,6 +160,7 @@
 				EDBA26DC2BAB006D002D75F9 /* ContentMenuUI.swift */,
 				EDBA26DE2BAB1217002D75F9 /* TextfieldUI.swift */,
 				EDBA26E02BAC342F002D75F9 /* TextEditorUI.swift */,
+				EDBA26E22BAC5CA1002D75F9 /* ToggleUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -273,6 +276,7 @@
 				062F5C9F2B83AB7300B00720 /* Padding.swift in Sources */,
 				EDBA26DB2BA9C0DA002D75F9 /* ActionSheetUI.swift in Sources */,
 				ED8B55C72BA03CE70069C604 /* PopoverUI.swift in Sources */,
+				EDBA26E32BAC5CA1002D75F9 /* ToggleUI.swift in Sources */,
 				ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */,
 				ED8B55BF2B9CCDE50069C604 /* AnimationUI.swift in Sources */,
 				ED8B55B72B9B59920069C604 /* ExtractSubviewUI.swift in Sources */,
