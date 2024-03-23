@@ -48,6 +48,7 @@
 		EDBA26E52BAC71F4002D75F9 /* PickerUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26E42BAC71F4002D75F9 /* PickerUI.swift */; };
 		EDBA26E72BADC5E7002D75F9 /* ColorPickerUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26E62BADC5E7002D75F9 /* ColorPickerUI.swift */; };
 		EDBA26E92BADD03A002D75F9 /* DatePickerUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26E82BADD03A002D75F9 /* DatePickerUI.swift */; };
+		EDBA26EB2BAEF008002D75F9 /* StepperUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26EA2BAEF008002D75F9 /* StepperUI.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 /* End PBXBuildFile section */
@@ -95,6 +96,7 @@
 		EDBA26E42BAC71F4002D75F9 /* PickerUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerUI.swift; sourceTree = "<group>"; };
 		EDBA26E62BADC5E7002D75F9 /* ColorPickerUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerUI.swift; sourceTree = "<group>"; };
 		EDBA26E82BADD03A002D75F9 /* DatePickerUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerUI.swift; sourceTree = "<group>"; };
+		EDBA26EA2BAEF008002D75F9 /* StepperUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperUI.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -170,6 +172,7 @@
 				EDBA26E42BAC71F4002D75F9 /* PickerUI.swift */,
 				EDBA26E62BADC5E7002D75F9 /* ColorPickerUI.swift */,
 				EDBA26E82BADD03A002D75F9 /* DatePickerUI.swift */,
+				EDBA26EA2BAEF008002D75F9 /* StepperUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -283,6 +286,7 @@
 				06E862FD2B750243001960E0 /* Colors.swift in Sources */,
 				ED8B55B52B9A028C0069C604 /* ExtractedFuncrionUI.swift in Sources */,
 				06E862FB2B74AF0D001960E0 /* Shapes.swift in Sources */,
+				EDBA26EB2BAEF008002D75F9 /* StepperUI.swift in Sources */,
 				EDBA26E12BAC342F002D75F9 /* TextEditorUI.swift in Sources */,
 				06E862F92B73B784001960E0 /* TextUI.swift in Sources */,
 				062F5C9F2B83AB7300B00720 /* Padding.swift in Sources */,
