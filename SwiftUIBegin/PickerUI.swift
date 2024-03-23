@@ -32,6 +32,7 @@ struct PickerUI: View {
                         
                 }
 //                .font(.caption) Не работает так же как и цвет для текста
+                .accentColor(.black) // так работает меняет цвет а как для новых версий не знаю.
 //                .bold()
                 .foregroundColor(.gray)
                 .padding(5)
@@ -54,6 +55,7 @@ struct PickerUI: View {
                         Text("Filter:")
                     }
                 }
+                //.accentColor(.black) Меняет цвет с синего.
                 .pickerStyle(.menu)
                 
             }
