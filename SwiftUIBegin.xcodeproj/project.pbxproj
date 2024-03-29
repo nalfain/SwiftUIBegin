@@ -56,6 +56,7 @@
 		EDBA26F52BB46A1D002D75F9 /* OnAppearUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26F42BB46A1D002D75F9 /* OnAppearUI.swift */; };
 		EDBA26F72BB57D68002D75F9 /* IfLetGuardUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26F62BB57D68002D75F9 /* IfLetGuardUI.swift */; };
 		EDBA26F92BB6BF2D002D75F9 /* TapGestureUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26F82BB6BF2C002D75F9 /* TapGestureUI.swift */; };
+		EDBA26FB2BB6CA59002D75F9 /* ModelUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26FA2BB6CA59002D75F9 /* ModelUI.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 /* End PBXBuildFile section */
@@ -111,6 +112,7 @@
 		EDBA26F42BB46A1D002D75F9 /* OnAppearUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearUI.swift; sourceTree = "<group>"; };
 		EDBA26F62BB57D68002D75F9 /* IfLetGuardUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardUI.swift; sourceTree = "<group>"; };
 		EDBA26F82BB6BF2C002D75F9 /* TapGestureUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureUI.swift; sourceTree = "<group>"; };
+		EDBA26FA2BB6CA59002D75F9 /* ModelUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelUI.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -194,6 +196,7 @@
 				EDBA26F82BB6BF2C002D75F9 /* TapGestureUI.swift */,
 				EDBA26F42BB46A1D002D75F9 /* OnAppearUI.swift */,
 				EDBA26F62BB57D68002D75F9 /* IfLetGuardUI.swift */,
+				EDBA26FA2BB6CA59002D75F9 /* ModelUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -289,6 +292,7 @@
 				ED8B55C32B9F2F1C0069C604 /* TransitionUI.swift in Sources */,
 				ED8B55C12B9F21280069C604 /* AnimationTimingUI.swift in Sources */,
 				EDBA26F92BB6BF2D002D75F9 /* TapGestureUI.swift in Sources */,
+				EDBA26FB2BB6CA59002D75F9 /* ModelUI.swift in Sources */,
 				ED8B55C52B9F52790069C604 /* SheetsUI.swift in Sources */,
 				062F5C952B76272A00B00720 /* Icons.swift in Sources */,
 				062F5CA32B865F7900B00720 /* InitializerUI.swift in Sources */,
