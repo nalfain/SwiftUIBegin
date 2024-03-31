@@ -59,6 +59,7 @@
 		EDBA26FB2BB6CA59002D75F9 /* ModelUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26FA2BB6CA59002D75F9 /* ModelUI.swift */; };
 		EDBA26FD2BB6E5AE002D75F9 /* ViewModelUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26FC2BB6E5AE002D75F9 /* ViewModelUI.swift */; };
 		EDBA26FF2BB841D6002D75F9 /* EnvironmentObjectUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26FE2BB841D6002D75F9 /* EnvironmentObjectUI.swift */; };
+		EDBA27012BB96DA4002D75F9 /* AppStorageUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27002BB96DA4002D75F9 /* AppStorageUI.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 /* End PBXBuildFile section */
@@ -117,6 +118,7 @@
 		EDBA26FA2BB6CA59002D75F9 /* ModelUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelUI.swift; sourceTree = "<group>"; };
 		EDBA26FC2BB6E5AE002D75F9 /* ViewModelUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelUI.swift; sourceTree = "<group>"; };
 		EDBA26FE2BB841D6002D75F9 /* EnvironmentObjectUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectUI.swift; sourceTree = "<group>"; };
+		EDBA27002BB96DA4002D75F9 /* AppStorageUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageUI.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -203,6 +205,7 @@
 				EDBA26FA2BB6CA59002D75F9 /* ModelUI.swift */,
 				EDBA26FC2BB6E5AE002D75F9 /* ViewModelUI.swift */,
 				EDBA26FE2BB841D6002D75F9 /* EnvironmentObjectUI.swift */,
+				EDBA27002BB96DA4002D75F9 /* AppStorageUI.swift */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
 			);
@@ -289,6 +292,7 @@
 			files = (
 				062F5C992B76709200B00720 /* Frame.swift in Sources */,
 				EDBA26E72BADC5E7002D75F9 /* ColorPickerUI.swift in Sources */,
+				EDBA27012BB96DA4002D75F9 /* AppStorageUI.swift in Sources */,
 				EDBA26D72BA4583E002D75F9 /* SwiftUIBeginApp.swift in Sources */,
 				EDBA26DD2BAB006D002D75F9 /* ContentMenuUI.swift in Sources */,
 				EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */,
