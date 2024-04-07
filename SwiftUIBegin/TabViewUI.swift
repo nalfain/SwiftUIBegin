@@ -30,7 +30,7 @@ struct TabViewUI: View {
                         Text("Browse")
                     }
                     .tag(1)
-                ProfileView(selectedTab: $selectedTab, icons: icons) //Передаем переменную icons в саб вью
+                ProfileViewUI(selectedTab: $selectedTab, icons: icons) //Передаем переменную icons в саб вью
                     .tabItem {
                         Image(systemName: "person.fill")
                         Text("Profile")
@@ -86,7 +86,7 @@ struct BrowseView: View {
     }
 }
 
-struct ProfileView: View {
+struct ProfileViewUI: View {
     @Binding var selectedTab: Int
     let icons: [String]
     var body: some View {
