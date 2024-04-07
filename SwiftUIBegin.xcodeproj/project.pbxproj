@@ -65,6 +65,7 @@
 		EDBA270C2BBD9B32002D75F9 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA270B2BBD9B32002D75F9 /* ProfileView.swift */; };
 		EDBA27102BC149FD002D75F9 /* AsyncImageUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA270F2BC149FD002D75F9 /* AsyncImageUI.swift */; };
 		EDBA27122BC294E4002D75F9 /* BackgroundMaterialsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27112BC294E4002D75F9 /* BackgroundMaterialsUI.swift */; };
+		EDBA27142BC29FBA002D75F9 /* TextSelectionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27132BC29FBA002D75F9 /* TextSelectionUI.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 /* End PBXBuildFile section */
@@ -129,6 +130,7 @@
 		EDBA270B2BBD9B32002D75F9 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		EDBA270F2BC149FD002D75F9 /* AsyncImageUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageUI.swift; sourceTree = "<group>"; };
 		EDBA27112BC294E4002D75F9 /* BackgroundMaterialsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsUI.swift; sourceTree = "<group>"; };
+		EDBA27132BC29FBA002D75F9 /* TextSelectionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionUI.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -218,6 +220,7 @@
 				EDBA27002BB96DA4002D75F9 /* AppStorageUI.swift */,
 				EDBA270F2BC149FD002D75F9 /* AsyncImageUI.swift */,
 				EDBA27112BC294E4002D75F9 /* BackgroundMaterialsUI.swift */,
+				EDBA27132BC29FBA002D75F9 /* TextSelectionUI.swift */,
 				EDBA27022BB99542002D75F9 /* OnbordingView */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
@@ -368,6 +371,7 @@
 				EDBA26EF2BB04954002D75F9 /* TabViewUI.swift in Sources */,
 				ED8B55BF2B9CCDE50069C604 /* AnimationUI.swift in Sources */,
 				ED8B55B72B9B59920069C604 /* ExtractSubviewUI.swift in Sources */,
+				EDBA27142BC29FBA002D75F9 /* TextSelectionUI.swift in Sources */,
 				062F5C932B7522B600B00720 /* Gradients.swift in Sources */,
 				062F5CA92B8B8A7300B00720 /* GridUI.swift in Sources */,
 				EDBA26DF2BAB1218002D75F9 /* TextfieldUI.swift in Sources */,
