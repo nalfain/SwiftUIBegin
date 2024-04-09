@@ -67,6 +67,7 @@
 		EDBA27122BC294E4002D75F9 /* BackgroundMaterialsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27112BC294E4002D75F9 /* BackgroundMaterialsUI.swift */; };
 		EDBA27142BC29FBA002D75F9 /* TextSelectionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27132BC29FBA002D75F9 /* TextSelectionUI.swift */; };
 		EDBA27162BC2A31E002D75F9 /* ButtonStylesUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27152BC2A31E002D75F9 /* ButtonStylesUI.swift */; };
+		EDBA27182BC2AD3D002D75F9 /* ListSwipeActionsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27172BC2AD3D002D75F9 /* ListSwipeActionsUI.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 /* End PBXBuildFile section */
@@ -133,6 +134,7 @@
 		EDBA27112BC294E4002D75F9 /* BackgroundMaterialsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsUI.swift; sourceTree = "<group>"; };
 		EDBA27132BC29FBA002D75F9 /* TextSelectionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionUI.swift; sourceTree = "<group>"; };
 		EDBA27152BC2A31E002D75F9 /* ButtonStylesUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesUI.swift; sourceTree = "<group>"; };
+		EDBA27172BC2AD3D002D75F9 /* ListSwipeActionsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsUI.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -170,6 +172,7 @@
 				EDBA26D62BA4583E002D75F9 /* SwiftUIBeginApp.swift */,
 				06E862EC2B73B547001960E0 /* ContentView.swift */,
 				06E862F82B73B784001960E0 /* TextUI.swift */,
+				EDBA27132BC29FBA002D75F9 /* TextSelectionUI.swift */,
 				06E862FA2B74AF0D001960E0 /* Shapes.swift */,
 				06E862FC2B750243001960E0 /* Colors.swift */,
 				062F5C922B7522B600B00720 /* Gradients.swift */,
@@ -186,6 +189,7 @@
 				062F5CA82B8B8A7300B00720 /* GridUI.swift */,
 				ED8B55AE2B95F7CA0069C604 /* SafeAriaUI.swift */,
 				ED8B55B02B98BB140069C604 /* ButtonUI.swift */,
+				EDBA27152BC2A31E002D75F9 /* ButtonStylesUI.swift */,
 				ED8B55B22B99F7420069C604 /* StateUI.swift */,
 				ED8B55B42B9A028C0069C604 /* ExtractedFuncrionUI.swift */,
 				ED8B55B62B9B59920069C604 /* ExtractSubviewUI.swift */,
@@ -199,6 +203,7 @@
 				ED8B55C62BA03CE60069C604 /* PopoverUI.swift */,
 				EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */,
 				EDE2978E2BA450EC0015C8BE /* ListUI.swift */,
+				EDBA27172BC2AD3D002D75F9 /* ListSwipeActionsUI.swift */,
 				EDBA26D82BA59E51002D75F9 /* AlertsUI.swift */,
 				EDBA26DA2BA9C0DA002D75F9 /* ActionSheetUI.swift */,
 				EDBA26DC2BAB006D002D75F9 /* ContentMenuUI.swift */,
@@ -222,8 +227,6 @@
 				EDBA27002BB96DA4002D75F9 /* AppStorageUI.swift */,
 				EDBA270F2BC149FD002D75F9 /* AsyncImageUI.swift */,
 				EDBA27112BC294E4002D75F9 /* BackgroundMaterialsUI.swift */,
-				EDBA27132BC29FBA002D75F9 /* TextSelectionUI.swift */,
-				EDBA27152BC2A31E002D75F9 /* ButtonStylesUI.swift */,
 				EDBA27022BB99542002D75F9 /* OnbordingView */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
@@ -358,6 +361,7 @@
 				EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */,
 				EDBA27162BC2A31E002D75F9 /* ButtonStylesUI.swift in Sources */,
 				06E862FD2B750243001960E0 /* Colors.swift in Sources */,
+				EDBA27182BC2AD3D002D75F9 /* ListSwipeActionsUI.swift in Sources */,
 				EDBA27082BBACBD1002D75F9 /* OnbordingView.swift in Sources */,
 				ED8B55B52B9A028C0069C604 /* ExtractedFuncrionUI.swift in Sources */,
 				06E862FB2B74AF0D001960E0 /* Shapes.swift in Sources */,
