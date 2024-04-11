@@ -70,6 +70,7 @@
 		EDBA27182BC2AD3D002D75F9 /* ListSwipeActionsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27172BC2AD3D002D75F9 /* ListSwipeActionsUI.swift */; };
 		EDBA271A2BC554ED002D75F9 /* BagesUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27192BC554ED002D75F9 /* BagesUI.swift */; };
 		EDBA271C2BC55FD1002D75F9 /* FocusStateUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA271B2BC55FD1002D75F9 /* FocusStateUI.swift */; };
+		EDBA271E2BC7D753002D75F9 /* SubmitTextFieldUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA271D2BC7D753002D75F9 /* SubmitTextFieldUI.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 /* End PBXBuildFile section */
@@ -139,6 +140,7 @@
 		EDBA27172BC2AD3D002D75F9 /* ListSwipeActionsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwipeActionsUI.swift; sourceTree = "<group>"; };
 		EDBA27192BC554ED002D75F9 /* BagesUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BagesUI.swift; sourceTree = "<group>"; };
 		EDBA271B2BC55FD1002D75F9 /* FocusStateUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateUI.swift; sourceTree = "<group>"; };
+		EDBA271D2BC7D753002D75F9 /* SubmitTextFieldUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldUI.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -233,6 +235,7 @@
 				EDBA27112BC294E4002D75F9 /* BackgroundMaterialsUI.swift */,
 				EDBA27192BC554ED002D75F9 /* BagesUI.swift */,
 				EDBA271B2BC55FD1002D75F9 /* FocusStateUI.swift */,
+				EDBA271D2BC7D753002D75F9 /* SubmitTextFieldUI.swift */,
 				EDBA27022BB99542002D75F9 /* OnbordingView */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
@@ -341,6 +344,7 @@
 				062F5CA52B8B6E2800B00720 /* ForEachUI.swift in Sources */,
 				EDBA26F52BB46A1D002D75F9 /* OnAppearUI.swift in Sources */,
 				EDBA26F12BB1C61A002D75F9 /* DarcModeUI.swift in Sources */,
+				EDBA271E2BC7D753002D75F9 /* SubmitTextFieldUI.swift in Sources */,
 				ED8B55C32B9F2F1C0069C604 /* TransitionUI.swift in Sources */,
 				ED8B55C12B9F21280069C604 /* AnimationTimingUI.swift in Sources */,
 				EDBA26F92BB6BF2D002D75F9 /* TapGestureUI.swift in Sources */,
