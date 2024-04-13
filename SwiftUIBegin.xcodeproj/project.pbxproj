@@ -71,6 +71,7 @@
 		EDBA271A2BC554ED002D75F9 /* BagesUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA27192BC554ED002D75F9 /* BagesUI.swift */; };
 		EDBA271C2BC55FD1002D75F9 /* FocusStateUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA271B2BC55FD1002D75F9 /* FocusStateUI.swift */; };
 		EDBA271E2BC7D753002D75F9 /* SubmitTextFieldUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA271D2BC7D753002D75F9 /* SubmitTextFieldUI.swift */; };
+		EDBA27202BC7E720002D75F9 /* NavigationStackUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA271F2BC7E720002D75F9 /* NavigationStackUI.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 /* End PBXBuildFile section */
@@ -141,6 +142,7 @@
 		EDBA27192BC554ED002D75F9 /* BagesUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BagesUI.swift; sourceTree = "<group>"; };
 		EDBA271B2BC55FD1002D75F9 /* FocusStateUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateUI.swift; sourceTree = "<group>"; };
 		EDBA271D2BC7D753002D75F9 /* SubmitTextFieldUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitTextFieldUI.swift; sourceTree = "<group>"; };
+		EDBA271F2BC7E720002D75F9 /* NavigationStackUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackUI.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -236,6 +238,7 @@
 				EDBA27192BC554ED002D75F9 /* BagesUI.swift */,
 				EDBA271B2BC55FD1002D75F9 /* FocusStateUI.swift */,
 				EDBA271D2BC7D753002D75F9 /* SubmitTextFieldUI.swift */,
+				EDBA271F2BC7E720002D75F9 /* NavigationStackUI.swift */,
 				EDBA27022BB99542002D75F9 /* OnbordingView */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
@@ -366,6 +369,7 @@
 				062F5C972B76518300B00720 /* image.swift in Sources */,
 				EDBA26E52BAC71F4002D75F9 /* PickerUI.swift in Sources */,
 				06E862ED2B73B547001960E0 /* ContentView.swift in Sources */,
+				EDBA27202BC7E720002D75F9 /* NavigationStackUI.swift in Sources */,
 				EDBA26F32BB1D734002D75F9 /* DocumentationUI.swift in Sources */,
 				ED8B55B92B9BA79E0069C604 /* BindingUI.swift in Sources */,
 				062F5C9B2B78E65800B00720 /* BackgroundAndOverlay.swift in Sources */,
