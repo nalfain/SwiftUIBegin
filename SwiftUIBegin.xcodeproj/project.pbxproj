@@ -26,6 +26,7 @@
 		06E862FB2B74AF0D001960E0 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E862FA2B74AF0D001960E0 /* Shapes.swift */; };
 		06E862FD2B750243001960E0 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06E862FC2B750243001960E0 /* Colors.swift */; };
 		ED4F49D72BCA883800306AE5 /* ToolBarUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4F49D62BCA883800306AE5 /* ToolBarUI.swift */; };
+		ED4F49D92BCBCC0F00306AE5 /* ResizableSheetUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4F49D82BCBCC0F00306AE5 /* ResizableSheetUI.swift */; };
 		ED8B55AF2B95F7CA0069C604 /* SafeAriaUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55AE2B95F7CA0069C604 /* SafeAriaUI.swift */; };
 		ED8B55B12B98BB140069C604 /* ButtonUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B02B98BB140069C604 /* ButtonUI.swift */; };
 		ED8B55B32B99F7420069C604 /* StateUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55B22B99F7420069C604 /* StateUI.swift */; };
@@ -98,6 +99,7 @@
 		06E862FA2B74AF0D001960E0 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 		06E862FC2B750243001960E0 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		ED4F49D62BCA883800306AE5 /* ToolBarUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolBarUI.swift; sourceTree = "<group>"; };
+		ED4F49D82BCBCC0F00306AE5 /* ResizableSheetUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizableSheetUI.swift; sourceTree = "<group>"; };
 		ED8B55AE2B95F7CA0069C604 /* SafeAriaUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAriaUI.swift; sourceTree = "<group>"; };
 		ED8B55B02B98BB140069C604 /* ButtonUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonUI.swift; sourceTree = "<group>"; };
 		ED8B55B22B99F7420069C604 /* StateUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateUI.swift; sourceTree = "<group>"; };
@@ -242,6 +244,7 @@
 				EDBA27192BC554ED002D75F9 /* BagesUI.swift */,
 				EDBA271B2BC55FD1002D75F9 /* FocusStateUI.swift */,
 				EDBA271D2BC7D753002D75F9 /* SubmitTextFieldUI.swift */,
+				ED4F49D82BCBCC0F00306AE5 /* ResizableSheetUI.swift */,
 				EDBA27022BB99542002D75F9 /* OnbordingView */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
@@ -338,6 +341,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				062F5C992B76709200B00720 /* Frame.swift in Sources */,
+				ED4F49D92BCBCC0F00306AE5 /* ResizableSheetUI.swift in Sources */,
 				ED4F49D72BCA883800306AE5 /* ToolBarUI.swift in Sources */,
 				EDBA26E72BADC5E7002D75F9 /* ColorPickerUI.swift in Sources */,
 				EDBA27122BC294E4002D75F9 /* BackgroundMaterialsUI.swift in Sources */,
