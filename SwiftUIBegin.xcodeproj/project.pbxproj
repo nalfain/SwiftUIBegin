@@ -78,6 +78,7 @@
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 		EDE4DDC92BCE97B00076958E /* SwiftUIBeginApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDC82BCE97B00076958E /* SwiftUIBeginApp.swift */; };
 		EDE4DDCD2BCE9A3B0076958E /* GroupUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDCC2BCE9A3B0076958E /* GroupUI.swift */; };
+		EDE4DDCF2BCE9AF40076958E /* AnimationUpdateUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDCE2BCE9AF40076958E /* AnimationUpdateUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -153,6 +154,7 @@
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 		EDE4DDC82BCE97B00076958E /* SwiftUIBeginApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginApp.swift; sourceTree = "<group>"; };
 		EDE4DDCC2BCE9A3B0076958E /* GroupUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupUI.swift; sourceTree = "<group>"; };
+		EDE4DDCE2BCE9AF40076958E /* AnimationUpdateUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdateUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -214,6 +216,7 @@
 				ED8B55BA2B9C56F00069C604 /* Conditional(if)UI.swift */,
 				ED8B55BC2B9CB0640069C604 /* TernaryOperatorUI.swift */,
 				ED8B55BE2B9CCDE50069C604 /* AnimationUI.swift */,
+				EDE4DDCE2BCE9AF40076958E /* AnimationUpdateUI.swift */,
 				ED8B55C02B9F21280069C604 /* AnimationTimingUI.swift */,
 				ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */,
 				ED8B55C42B9F52790069C604 /* SheetsUI.swift */,
@@ -409,6 +412,7 @@
 				EDBA26E32BAC5CA1002D75F9 /* ToggleUI.swift in Sources */,
 				ED8B55BB2B9C56F00069C604 /* Conditional(if)UI.swift in Sources */,
 				EDBA26EF2BB04954002D75F9 /* TabViewUI.swift in Sources */,
+				EDE4DDCF2BCE9AF40076958E /* AnimationUpdateUI.swift in Sources */,
 				ED8B55BF2B9CCDE50069C604 /* AnimationUI.swift in Sources */,
 				ED8B55B72B9B59920069C604 /* ExtractSubviewUI.swift in Sources */,
 				EDBA27142BC29FBA002D75F9 /* TextSelectionUI.swift in Sources */,
