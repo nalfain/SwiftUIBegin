@@ -41,7 +41,6 @@
 		ED8B55C32B9F2F1C0069C604 /* TransitionUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */; };
 		ED8B55C52B9F52790069C604 /* SheetsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C42B9F52790069C604 /* SheetsUI.swift */; };
 		ED8B55C72BA03CE70069C604 /* PopoverUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8B55C62BA03CE60069C604 /* PopoverUI.swift */; };
-		EDBA26D72BA4583E002D75F9 /* SwiftUIBeginApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26D62BA4583E002D75F9 /* SwiftUIBeginApp.swift */; };
 		EDBA26D92BA59E51002D75F9 /* AlertsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26D82BA59E51002D75F9 /* AlertsUI.swift */; };
 		EDBA26DB2BA9C0DA002D75F9 /* ActionSheetUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26DA2BA9C0DA002D75F9 /* ActionSheetUI.swift */; };
 		EDBA26DD2BAB006D002D75F9 /* ContentMenuUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA26DC2BAB006D002D75F9 /* ContentMenuUI.swift */; };
@@ -77,6 +76,8 @@
 		EDBA27202BC7E720002D75F9 /* NavigationStackUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBA271F2BC7E720002D75F9 /* NavigationStackUI.swift */; };
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
+		EDE4DDC92BCE97B00076958E /* SwiftUIBeginApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDC82BCE97B00076958E /* SwiftUIBeginApp.swift */; };
+		EDE4DDCB2BCE97FD0076958E /* GroupUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDCA2BCE97FD0076958E /* GroupUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -115,7 +116,6 @@
 		ED8B55C22B9F2F1C0069C604 /* TransitionUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionUI.swift; sourceTree = "<group>"; };
 		ED8B55C42B9F52790069C604 /* SheetsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsUI.swift; sourceTree = "<group>"; };
 		ED8B55C62BA03CE60069C604 /* PopoverUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverUI.swift; sourceTree = "<group>"; };
-		EDBA26D62BA4583E002D75F9 /* SwiftUIBeginApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftUIBeginApp.swift; path = ../../../../.Trash/SwiftUIBeginApp.swift; sourceTree = "<group>"; };
 		EDBA26D82BA59E51002D75F9 /* AlertsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertsUI.swift; sourceTree = "<group>"; };
 		EDBA26DA2BA9C0DA002D75F9 /* ActionSheetUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetUI.swift; sourceTree = "<group>"; tabWidth = 4; };
 		EDBA26DC2BAB006D002D75F9 /* ContentMenuUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentMenuUI.swift; sourceTree = "<group>"; };
@@ -151,6 +151,8 @@
 		EDBA271F2BC7E720002D75F9 /* NavigationStackUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackUI.swift; sourceTree = "<group>"; };
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
+		EDE4DDC82BCE97B00076958E /* SwiftUIBeginApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginApp.swift; sourceTree = "<group>"; };
+		EDE4DDCA2BCE97FD0076958E /* GroupUI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GroupUI.swift; path = ../../../../.Trash/GroupUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,7 +185,7 @@
 		06E862E92B73B547001960E0 /* SwiftUIBegin */ = {
 			isa = PBXGroup;
 			children = (
-				EDBA26D62BA4583E002D75F9 /* SwiftUIBeginApp.swift */,
+				EDE4DDC82BCE97B00076958E /* SwiftUIBeginApp.swift */,
 				06E862EC2B73B547001960E0 /* ContentView.swift */,
 				06E862F82B73B784001960E0 /* TextUI.swift */,
 				EDBA27132BC29FBA002D75F9 /* TextSelectionUI.swift */,
@@ -195,6 +197,7 @@
 				062F5C982B76709200B00720 /* Frame.swift */,
 				062F5C9A2B78E65800B00720 /* BackgroundAndOverlay.swift */,
 				062F5C9C2B82116E00B00720 /* Stacks.swift */,
+				EDE4DDCA2BCE97FD0076958E /* GroupUI.swift */,
 				062F5C9E2B83AB7200B00720 /* Padding.swift */,
 				062F5CA02B83BF7700B00720 /* SpacerUI.swift */,
 				062F5CA22B865F7800B00720 /* InitializerUI.swift */,
@@ -349,8 +352,8 @@
 				EDBA26E72BADC5E7002D75F9 /* ColorPickerUI.swift in Sources */,
 				EDBA27122BC294E4002D75F9 /* BackgroundMaterialsUI.swift in Sources */,
 				EDBA27012BB96DA4002D75F9 /* AppStorageUI.swift in Sources */,
-				EDBA26D72BA4583E002D75F9 /* SwiftUIBeginApp.swift in Sources */,
 				EDBA26DD2BAB006D002D75F9 /* ContentMenuUI.swift in Sources */,
+				EDE4DDCB2BCE97FD0076958E /* GroupUI.swift in Sources */,
 				EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */,
 				EDBA271C2BC55FD1002D75F9 /* FocusStateUI.swift in Sources */,
 				EDBA26FD2BB6E5AE002D75F9 /* ViewModelUI.swift in Sources */,
@@ -397,6 +400,7 @@
 				EDBA26E12BAC342F002D75F9 /* TextEditorUI.swift in Sources */,
 				EDBA271A2BC554ED002D75F9 /* BagesUI.swift in Sources */,
 				EDBA26F72BB57D68002D75F9 /* IfLetGuardUI.swift in Sources */,
+				EDE4DDC92BCE97B00076958E /* SwiftUIBeginApp.swift in Sources */,
 				06E862F92B73B784001960E0 /* TextUI.swift in Sources */,
 				EDBA26ED2BAF0773002D75F9 /* SliderUI.swift in Sources */,
 				062F5C9F2B83AB7300B00720 /* Padding.swift in Sources */,
