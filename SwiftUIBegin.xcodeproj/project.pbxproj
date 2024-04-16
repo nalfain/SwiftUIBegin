@@ -79,6 +79,7 @@
 		EDE4DDC92BCE97B00076958E /* SwiftUIBeginApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDC82BCE97B00076958E /* SwiftUIBeginApp.swift */; };
 		EDE4DDCD2BCE9A3B0076958E /* GroupUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDCC2BCE9A3B0076958E /* GroupUI.swift */; };
 		EDE4DDCF2BCE9AF40076958E /* AnimationUpdateUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDCE2BCE9AF40076958E /* AnimationUpdateUI.swift */; };
+		EDE4DDD12BCEA4F60076958E /* MenuUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDD02BCEA4F60076958E /* MenuUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -155,6 +156,7 @@
 		EDE4DDC82BCE97B00076958E /* SwiftUIBeginApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginApp.swift; sourceTree = "<group>"; };
 		EDE4DDCC2BCE9A3B0076958E /* GroupUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupUI.swift; sourceTree = "<group>"; };
 		EDE4DDCE2BCE9AF40076958E /* AnimationUpdateUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdateUI.swift; sourceTree = "<group>"; };
+		EDE4DDD02BCEA4F60076958E /* MenuUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -234,6 +236,7 @@
 				EDBA26E02BAC342F002D75F9 /* TextEditorUI.swift */,
 				EDBA26E22BAC5CA1002D75F9 /* ToggleUI.swift */,
 				EDBA26E42BAC71F4002D75F9 /* PickerUI.swift */,
+				EDE4DDD02BCEA4F60076958E /* MenuUI.swift */,
 				EDBA26E62BADC5E7002D75F9 /* ColorPickerUI.swift */,
 				EDBA26E82BADD03A002D75F9 /* DatePickerUI.swift */,
 				EDBA26EA2BAEF008002D75F9 /* StepperUI.swift */,
@@ -377,6 +380,7 @@
 				062F5C9D2B82116E00B00720 /* Stacks.swift in Sources */,
 				ED8B55AF2B95F7CA0069C604 /* SafeAriaUI.swift in Sources */,
 				ED8B55BD2B9CB0640069C604 /* TernaryOperatorUI.swift in Sources */,
+				EDE4DDD12BCEA4F60076958E /* MenuUI.swift in Sources */,
 				062F5CA72B8B7B7D00B00720 /* ScrollViewUI.swift in Sources */,
 				EDBA26E92BADD03A002D75F9 /* DatePickerUI.swift in Sources */,
 				EDBA27042BB99580002D75F9 /* IntroView.swift in Sources */,
