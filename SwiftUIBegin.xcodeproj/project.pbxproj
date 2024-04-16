@@ -77,7 +77,7 @@
 		EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */; };
 		EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE2978E2BA450EC0015C8BE /* ListUI.swift */; };
 		EDE4DDC92BCE97B00076958E /* SwiftUIBeginApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDC82BCE97B00076958E /* SwiftUIBeginApp.swift */; };
-		EDE4DDCB2BCE97FD0076958E /* GroupUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDCA2BCE97FD0076958E /* GroupUI.swift */; };
+		EDE4DDCD2BCE9A3B0076958E /* GroupUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDCC2BCE9A3B0076958E /* GroupUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -152,7 +152,7 @@
 		EDE2978C2BA0A8190015C8BE /* NavigationViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewUI.swift; sourceTree = "<group>"; };
 		EDE2978E2BA450EC0015C8BE /* ListUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListUI.swift; sourceTree = "<group>"; };
 		EDE4DDC82BCE97B00076958E /* SwiftUIBeginApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIBeginApp.swift; sourceTree = "<group>"; };
-		EDE4DDCA2BCE97FD0076958E /* GroupUI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GroupUI.swift; path = ../../../../.Trash/GroupUI.swift; sourceTree = "<group>"; };
+		EDE4DDCC2BCE9A3B0076958E /* GroupUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -197,7 +197,7 @@
 				062F5C982B76709200B00720 /* Frame.swift */,
 				062F5C9A2B78E65800B00720 /* BackgroundAndOverlay.swift */,
 				062F5C9C2B82116E00B00720 /* Stacks.swift */,
-				EDE4DDCA2BCE97FD0076958E /* GroupUI.swift */,
+				EDE4DDCC2BCE9A3B0076958E /* GroupUI.swift */,
 				062F5C9E2B83AB7200B00720 /* Padding.swift */,
 				062F5CA02B83BF7700B00720 /* SpacerUI.swift */,
 				062F5CA22B865F7800B00720 /* InitializerUI.swift */,
@@ -353,7 +353,7 @@
 				EDBA27122BC294E4002D75F9 /* BackgroundMaterialsUI.swift in Sources */,
 				EDBA27012BB96DA4002D75F9 /* AppStorageUI.swift in Sources */,
 				EDBA26DD2BAB006D002D75F9 /* ContentMenuUI.swift in Sources */,
-				EDE4DDCB2BCE97FD0076958E /* GroupUI.swift in Sources */,
+				EDE4DDCD2BCE9A3B0076958E /* GroupUI.swift in Sources */,
 				EDE2978F2BA450ED0015C8BE /* ListUI.swift in Sources */,
 				EDBA271C2BC55FD1002D75F9 /* FocusStateUI.swift in Sources */,
 				EDBA26FD2BB6E5AE002D75F9 /* ViewModelUI.swift in Sources */,
