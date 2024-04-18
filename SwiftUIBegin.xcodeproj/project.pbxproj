@@ -80,6 +80,7 @@
 		EDE4DDCD2BCE9A3B0076958E /* GroupUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDCC2BCE9A3B0076958E /* GroupUI.swift */; };
 		EDE4DDCF2BCE9AF40076958E /* AnimationUpdateUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDCE2BCE9AF40076958E /* AnimationUpdateUI.swift */; };
 		EDE4DDD12BCEA4F60076958E /* MenuUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDD02BCEA4F60076958E /* MenuUI.swift */; };
+		EDE4DDD32BCEA9650076958E /* NativePopoverUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDD22BCEA9650076958E /* NativePopoverUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -157,6 +158,7 @@
 		EDE4DDCC2BCE9A3B0076958E /* GroupUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupUI.swift; sourceTree = "<group>"; };
 		EDE4DDCE2BCE9AF40076958E /* AnimationUpdateUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdateUI.swift; sourceTree = "<group>"; };
 		EDE4DDD02BCEA4F60076958E /* MenuUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuUI.swift; sourceTree = "<group>"; };
+		EDE4DDD22BCEA9650076958E /* NativePopoverUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopoverUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -257,6 +259,7 @@
 				EDBA271B2BC55FD1002D75F9 /* FocusStateUI.swift */,
 				EDBA271D2BC7D753002D75F9 /* SubmitTextFieldUI.swift */,
 				ED4F49DA2BCBF0D500306AE5 /* SafeAreaInsertUI.swift */,
+				EDE4DDD22BCEA9650076958E /* NativePopoverUI.swift */,
 				EDBA27022BB99542002D75F9 /* OnbordingView */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
@@ -384,6 +387,7 @@
 				062F5CA72B8B7B7D00B00720 /* ScrollViewUI.swift in Sources */,
 				EDBA26E92BADD03A002D75F9 /* DatePickerUI.swift in Sources */,
 				EDBA27042BB99580002D75F9 /* IntroView.swift in Sources */,
+				EDE4DDD32BCEA9650076958E /* NativePopoverUI.swift in Sources */,
 				EDBA26D92BA59E51002D75F9 /* AlertsUI.swift in Sources */,
 				ED8B55B32B99F7420069C604 /* StateUI.swift in Sources */,
 				062F5CA12B83BF7700B00720 /* SpacerUI.swift in Sources */,
