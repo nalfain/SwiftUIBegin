@@ -82,6 +82,7 @@
 		EDE4DDD12BCEA4F60076958E /* MenuUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDD02BCEA4F60076958E /* MenuUI.swift */; };
 		EDE4DDD32BCEA9650076958E /* NativePopoverUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDD22BCEA9650076958E /* NativePopoverUI.swift */; };
 		EDE4DDD52BD1054B0076958E /* AnyLayoutUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDD42BD1054B0076958E /* AnyLayoutUI.swift */; };
+		EDE4DDD92BD283C50076958E /* ViewThatFitsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDD82BD283C50076958E /* ViewThatFitsUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -161,6 +162,7 @@
 		EDE4DDD02BCEA4F60076958E /* MenuUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuUI.swift; sourceTree = "<group>"; };
 		EDE4DDD22BCEA9650076958E /* NativePopoverUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopoverUI.swift; sourceTree = "<group>"; };
 		EDE4DDD42BD1054B0076958E /* AnyLayoutUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyLayoutUI.swift; sourceTree = "<group>"; };
+		EDE4DDD82BD283C50076958E /* ViewThatFitsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -263,6 +265,7 @@
 				ED4F49DA2BCBF0D500306AE5 /* SafeAreaInsertUI.swift */,
 				EDE4DDD22BCEA9650076958E /* NativePopoverUI.swift */,
 				EDE4DDD42BD1054B0076958E /* AnyLayoutUI.swift */,
+				EDE4DDD82BD283C50076958E /* ViewThatFitsUI.swift */,
 				EDBA27022BB99542002D75F9 /* OnbordingView */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
@@ -415,6 +418,7 @@
 				EDBA26E12BAC342F002D75F9 /* TextEditorUI.swift in Sources */,
 				EDBA271A2BC554ED002D75F9 /* BagesUI.swift in Sources */,
 				EDBA26F72BB57D68002D75F9 /* IfLetGuardUI.swift in Sources */,
+				EDE4DDD92BD283C50076958E /* ViewThatFitsUI.swift in Sources */,
 				EDE4DDC92BCE97B00076958E /* SwiftUIBeginApp.swift in Sources */,
 				06E862F92B73B784001960E0 /* TextUI.swift in Sources */,
 				EDBA26ED2BAF0773002D75F9 /* SliderUI.swift in Sources */,
