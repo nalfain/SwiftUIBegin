@@ -84,6 +84,8 @@
 		EDE4DDD52BD1054B0076958E /* AnyLayoutUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDD42BD1054B0076958E /* AnyLayoutUI.swift */; };
 		EDE4DDD92BD283C50076958E /* ViewThatFitsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDD82BD283C50076958E /* ViewThatFitsUI.swift */; };
 		EDE4DDDB2BD288DE0076958E /* NavigationSplitViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDDA2BD288DE0076958E /* NavigationSplitViewUI.swift */; };
+		EDE4DDDD2BD3BD130076958E /* NewGridUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDDC2BD3BD130076958E /* NewGridUI.swift */; };
+		EDE4DDDF2BD3D9180076958E /* CellColumsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDDE2BD3D9180076958E /* CellColumsUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -165,6 +167,8 @@
 		EDE4DDD42BD1054B0076958E /* AnyLayoutUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyLayoutUI.swift; sourceTree = "<group>"; };
 		EDE4DDD82BD283C50076958E /* ViewThatFitsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsUI.swift; sourceTree = "<group>"; };
 		EDE4DDDA2BD288DE0076958E /* NavigationSplitViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitViewUI.swift; sourceTree = "<group>"; };
+		EDE4DDDC2BD3BD130076958E /* NewGridUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGridUI.swift; sourceTree = "<group>"; };
+		EDE4DDDE2BD3D9180076958E /* CellColumsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellColumsUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +220,8 @@
 				062F5CA42B8B6E2800B00720 /* ForEachUI.swift */,
 				062F5CA62B8B7B7D00B00720 /* ScrollViewUI.swift */,
 				062F5CA82B8B8A7300B00720 /* GridUI.swift */,
+				EDE4DDDC2BD3BD130076958E /* NewGridUI.swift */,
+				EDE4DDDE2BD3D9180076958E /* CellColumsUI.swift */,
 				ED8B55AE2B95F7CA0069C604 /* SafeAriaUI.swift */,
 				ED8B55B02B98BB140069C604 /* ButtonUI.swift */,
 				EDBA27152BC2A31E002D75F9 /* ButtonStylesUI.swift */,
@@ -408,6 +414,7 @@
 				EDBA27202BC7E720002D75F9 /* NavigationStackUI.swift in Sources */,
 				EDE4DDDB2BD288DE0076958E /* NavigationSplitViewUI.swift in Sources */,
 				EDBA26F32BB1D734002D75F9 /* DocumentationUI.swift in Sources */,
+				EDE4DDDF2BD3D9180076958E /* CellColumsUI.swift in Sources */,
 				ED8B55B92B9BA79E0069C604 /* BindingUI.swift in Sources */,
 				062F5C9B2B78E65800B00720 /* BackgroundAndOverlay.swift in Sources */,
 				EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */,
@@ -420,6 +427,7 @@
 				EDBA26EB2BAEF008002D75F9 /* StepperUI.swift in Sources */,
 				EDBA270C2BBD9B32002D75F9 /* ProfileView.swift in Sources */,
 				EDBA26E12BAC342F002D75F9 /* TextEditorUI.swift in Sources */,
+				EDE4DDDD2BD3BD130076958E /* NewGridUI.swift in Sources */,
 				EDBA271A2BC554ED002D75F9 /* BagesUI.swift in Sources */,
 				EDBA26F72BB57D68002D75F9 /* IfLetGuardUI.swift in Sources */,
 				EDE4DDD92BD283C50076958E /* ViewThatFitsUI.swift in Sources */,
