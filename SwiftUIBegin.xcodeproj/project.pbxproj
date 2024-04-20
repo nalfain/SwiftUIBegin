@@ -87,6 +87,7 @@
 		EDE4DDDD2BD3BD130076958E /* NewGridUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDDC2BD3BD130076958E /* NewGridUI.swift */; };
 		EDE4DDDF2BD3D9180076958E /* CellColumsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDDE2BD3D9180076958E /* CellColumsUI.swift */; };
 		EDE4DDE12BD3DBD70076958E /* ContentUnavalilableUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDE02BD3DBD70076958E /* ContentUnavalilableUI.swift */; };
+		EDE4DDE32BD3EC1D0076958E /* ControlGroupMenuUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDE22BD3EC1D0076958E /* ControlGroupMenuUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -171,6 +172,7 @@
 		EDE4DDDC2BD3BD130076958E /* NewGridUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGridUI.swift; sourceTree = "<group>"; };
 		EDE4DDDE2BD3D9180076958E /* CellColumsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellColumsUI.swift; sourceTree = "<group>"; };
 		EDE4DDE02BD3DBD70076958E /* ContentUnavalilableUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavalilableUI.swift; sourceTree = "<group>"; };
+		EDE4DDE22BD3EC1D0076958E /* ControlGroupMenuUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroupMenuUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -278,6 +280,7 @@
 				EDE4DDD42BD1054B0076958E /* AnyLayoutUI.swift */,
 				EDE4DDD82BD283C50076958E /* ViewThatFitsUI.swift */,
 				EDE4DDE02BD3DBD70076958E /* ContentUnavalilableUI.swift */,
+				EDE4DDE22BD3EC1D0076958E /* ControlGroupMenuUI.swift */,
 				EDBA27022BB99542002D75F9 /* OnbordingView */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
@@ -424,6 +427,7 @@
 				EDE2978D2BA0A8190015C8BE /* NavigationViewUI.swift in Sources */,
 				EDBA27162BC2A31E002D75F9 /* ButtonStylesUI.swift in Sources */,
 				06E862FD2B750243001960E0 /* Colors.swift in Sources */,
+				EDE4DDE32BD3EC1D0076958E /* ControlGroupMenuUI.swift in Sources */,
 				EDBA27182BC2AD3D002D75F9 /* ListSwipeActionsUI.swift in Sources */,
 				EDBA27082BBACBD1002D75F9 /* OnbordingView.swift in Sources */,
 				ED8B55B52B9A028C0069C604 /* ExtractedFuncrionUI.swift in Sources */,
