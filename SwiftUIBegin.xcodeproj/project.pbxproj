@@ -86,6 +86,7 @@
 		EDE4DDDB2BD288DE0076958E /* NavigationSplitViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDDA2BD288DE0076958E /* NavigationSplitViewUI.swift */; };
 		EDE4DDDD2BD3BD130076958E /* NewGridUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDDC2BD3BD130076958E /* NewGridUI.swift */; };
 		EDE4DDDF2BD3D9180076958E /* CellColumsUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDDE2BD3D9180076958E /* CellColumsUI.swift */; };
+		EDE4DDE12BD3DBD70076958E /* ContentUnavalilableUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE4DDE02BD3DBD70076958E /* ContentUnavalilableUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -169,6 +170,7 @@
 		EDE4DDDA2BD288DE0076958E /* NavigationSplitViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSplitViewUI.swift; sourceTree = "<group>"; };
 		EDE4DDDC2BD3BD130076958E /* NewGridUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGridUI.swift; sourceTree = "<group>"; };
 		EDE4DDDE2BD3D9180076958E /* CellColumsUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellColumsUI.swift; sourceTree = "<group>"; };
+		EDE4DDE02BD3DBD70076958E /* ContentUnavalilableUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavalilableUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -275,6 +277,7 @@
 				EDE4DDD22BCEA9650076958E /* NativePopoverUI.swift */,
 				EDE4DDD42BD1054B0076958E /* AnyLayoutUI.swift */,
 				EDE4DDD82BD283C50076958E /* ViewThatFitsUI.swift */,
+				EDE4DDE02BD3DBD70076958E /* ContentUnavalilableUI.swift */,
 				EDBA27022BB99542002D75F9 /* OnbordingView */,
 				06E862EE2B73B549001960E0 /* Assets.xcassets */,
 				06E862F02B73B549001960E0 /* Preview Content */,
@@ -411,6 +414,7 @@
 				062F5C972B76518300B00720 /* image.swift in Sources */,
 				EDBA26E52BAC71F4002D75F9 /* PickerUI.swift in Sources */,
 				06E862ED2B73B547001960E0 /* ContentView.swift in Sources */,
+				EDE4DDE12BD3DBD70076958E /* ContentUnavalilableUI.swift in Sources */,
 				EDBA27202BC7E720002D75F9 /* NavigationStackUI.swift in Sources */,
 				EDE4DDDB2BD288DE0076958E /* NavigationSplitViewUI.swift in Sources */,
 				EDBA26F32BB1D734002D75F9 /* DocumentationUI.swift in Sources */,
